@@ -1,0 +1,4 @@
+config:
+  cluster:type: local # Can be "local" or "aws"
+  cluster:name: my-cluster
+  cluster:region: us-west-2 # Only applicable for EKS
